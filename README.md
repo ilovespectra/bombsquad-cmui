@@ -1,3 +1,6 @@
+# Mark Sackerberg v3ui
+This is a modified replica of the [MarkSackerberg/CandyMachine-v3-ui-template](https://github.com/MarkSackerberg/CandyMachine-v3-ui-template)
+
 # Candy Machine v3 UI Introduction
 Hi! This is a production ready **Candy Machine V3** responsive UI which can be easily customized.
 Major features of the CMv3 such as Candy Guards are implemented & auto-detected.
