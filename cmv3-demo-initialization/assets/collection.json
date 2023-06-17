@@ -1,0 +1,15 @@
+{
+    "name": "HeliumDenver BombSquad",
+    "symbol": "BOMB0",
+    "description": "Each NFT in this collection represents the contribution of 1SOL toward the permanent acquisition of the HeliumDenver Portals convention space.",
+    "image": "collection.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

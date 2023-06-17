@@ -1,0 +1,66 @@
+{
+  "program": {
+    "candyMachine": "5v1yCPsYwgQAxbyCtndk1A4VutrTV6FPdBJX6Eqzyq6b",
+    "candyGuard": "",
+    "candyMachineCreator": "5fAMPuAiP9ZgUjLFEqBaVaDiN9dtwirQtmqotz2UrdAr",
+    "collectionMint": "CERSrdperaqhqqnmT9WqyprebjA6yvgCXppcAugMc9Lj"
+  },
+  "items": {
+    "-1": {
+      "name": "HeliumDenver BombSquad",
+      "image_hash": "d75b494a1e6a214acc6fa6c73b2a59a112aad59725783edd5362053ba9a5f0d2",
+      "image_link": "https://arweave.net/iHprf4N-dbjmsNKKG8laSmRu5fDEkLXXMJ-oi7aVnPY?ext=png",
+      "metadata_hash": "c6758a92af630b5b3690d5198c7f0583626c258d28d752b41d921e4286d2c288",
+      "metadata_link": "https://arweave.net/54vwK9D66FltYF8Nb3ITPyzvJTjZcUc6u7YyUKYX9AM",
+      "onChain": true
+    },
+    "0": {
+      "name": "BombSquad",
+      "image_hash": "3d0143f2549ba11acd92ce64370087aed4259a7ec9a4351b274436af739b2785",
+      "image_link": "https://arweave.net/y2NmoOaFDW_BpkIfDEwhk8ZSlKJ1I1gNMpfjUkNfQz0?ext=png",
+      "metadata_hash": "d40d9a55fc8f80bfb5ed535b443fe7a67c9d35af56bae554d1260a1429f09b9e",
+      "metadata_link": "https://arweave.net/VyG0DasD_BIbm7E0gTNwkNeei64cv02kkfQ4mzQzCzc",
+      "onChain": true
+    },
+    "1": {
+      "name": "BombSquad",
+      "image_hash": "3d0143f2549ba11acd92ce64370087aed4259a7ec9a4351b274436af739b2785",
+      "image_link": "https://arweave.net/_eNXXv2ZdQsVWtjQu6XVKppQpbYtuc6lRqaPWRKk_uk?ext=png",
+      "metadata_hash": "fd9172e975806c64b4e9c10dddf1c24023ddae0dfcc710eeb2dbc031c4400864",
+      "metadata_link": "https://arweave.net/SyCxmIFFfwO9j3UR-vvTO8ti3ItwhYZqio_OesdtfIg",
+      "onChain": true
+    },
+    "2": {
+      "name": "BombSquad",
+      "image_hash": "3d0143f2549ba11acd92ce64370087aed4259a7ec9a4351b274436af739b2785",
+      "image_link": "https://arweave.net/VDwO9RO2bZ5bB4lr0YwUbd76Wl9j02Rp9O_UQPdRWZU?ext=png",
+      "metadata_hash": "19c5fec89d2e6dea5b266f1a442fc7292fe5eebea61ce9a4870306d8857a80c1",
+      "metadata_link": "https://arweave.net/qCR_KLXjr1yQ4Cg6kpMcYrUc37zruzcZfYxIn_3oFyI",
+      "onChain": true
+    },
+    "3": {
+      "name": "BombSquad",
+      "image_hash": "3d0143f2549ba11acd92ce64370087aed4259a7ec9a4351b274436af739b2785",
+      "image_link": "https://arweave.net/WKpGHc28MRtsA2BdeNEmi_w8o1Jc1ZZDJJCq4c9YKxc?ext=png",
+      "metadata_hash": "3b759ef78618104065f9d34e3524e5dbe6b7882c38d606ab38a175ef39426e03",
+      "metadata_link": "https://arweave.net/_O4WhZBwNbZ7iUIm3i_u28AgS7xk0rX_pKj1FdwaIs0",
+      "onChain": true
+    },
+    "4": {
+      "name": "BombSquad",
+      "image_hash": "3d0143f2549ba11acd92ce64370087aed4259a7ec9a4351b274436af739b2785",
+      "image_link": "https://arweave.net/1ofs0pBbAo2_5RUnkOjVBs6-mn4jhTHAARuCCPnZjH0?ext=png",
+      "metadata_hash": "e33b0114814e76dca5df8eda37b9ae7c7e62e33a7177d25e15c1b32a55c70738",
+      "metadata_link": "https://arweave.net/eVjq8IRTTU3I0D7uBDwPTft3ZYJuSACyA2L0Odo5lw4",
+      "onChain": true
+    },
+    "5": {
+      "name": "BombSquad",
+      "image_hash": "3d0143f2549ba11acd92ce64370087aed4259a7ec9a4351b274436af739b2785",
+      "image_link": "https://arweave.net/wxkSItB4nZPUQEfIzZVre3uMkDCeLQNYhZOmw8li6hg?ext=png",
+      "metadata_hash": "65cc90c3b1d39ecccecf76cdabf935194e92ba9e2d4403441d0a2c307e147b29",
+      "metadata_link": "https://arweave.net/v62uykHZ7NGT23FOOGs0MZNyz67rRHRGSmez_YtKWfE",
+      "onChain": true
+    }
+  }
+}

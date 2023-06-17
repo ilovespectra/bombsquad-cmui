@@ -1,0 +1,24 @@
+{
+    "name": "BombSquad",
+    "symbol": "BOMB0",
+    "description": "This NFT represents the contribution of 1 SOL to LavaDAO to purchase HeliumDenver the Portals Onyx NFT.",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fundraiser"
+        },
+        {
+            "trait_type": "Character",
+            "value": "BombSquad"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
