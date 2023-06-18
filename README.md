@@ -1,6 +1,29 @@
 # Mark Sackerberg v3ui
 This is a modified replica of the [MarkSackerberg/CandyMachine-v3-ui-template](https://github.com/MarkSackerberg/CandyMachine-v3-ui-template)
 
+my issue is related to the guards for my candy machine, which appears to be a v2. looking for assistance with the following error: 
+
+to view:
+
+1) install ngrok
+
+2) Run:
+```
+yarn
+```
+3)
+```
+yarn dev
+```
+4)
+```
+npx ngrok http 3000    
+```
+5) copy the ngrok address into your browser: <br><br> ![this address](https://cdn.discordapp.com/attachments/1051281685234327613/1119815713008394260/image.png)
+6) connect your wallet on devnet 
+7) i get this error:
+![this error](https://cdn.discordapp.com/attachments/1086222822294175744/1119778931055272057/image.png)
+
 # Candy Machine v3 UI Introduction
 Hi! This is a production ready **Candy Machine V3** responsive UI which can be easily customized.
 Major features of the CMv3 such as Candy Guards are implemented & auto-detected.
