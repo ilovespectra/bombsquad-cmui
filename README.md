@@ -24,6 +24,9 @@ npx ngrok http 3000
 7) i get this error:
 ![this error](https://cdn.discordapp.com/attachments/1086222822294175744/1119778931055272057/image.png)
 
+this me:
+![sugarshow](https://cdn.discordapp.com/attachments/1051281685234327613/1119824774642794627/image.png)
+
 # Candy Machine v3 UI Introduction
 Hi! This is a production ready **Candy Machine V3** responsive UI which can be easily customized.
 Major features of the CMv3 such as Candy Guards are implemented & auto-detected.
