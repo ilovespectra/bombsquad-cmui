@@ -34,7 +34,7 @@ To deploy a Candy Machine using Sugar, be sure to use the version that creates a
 Will look into adding functionality for CMv3 Account version v2 (which supports pNFT, royalty enforcement).
 
 ### Preview
-![Desktop preview of Candy Machine V3](https://cdn.discordapp.com/attachments/1039648022516215919/1072170298398474250/cmv3.png)
+![Desktop preview of Candy Machine V3](https://cdn.discordapp.com/attachments/1086222822294175744/1119778931302744136/image.png)
 — Desktop preview.
 
 Preview it live [here](https://wearekite-cmv3-ui.vercel.app/).
